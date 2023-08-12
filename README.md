@@ -23,9 +23,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/account/login"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/account/login" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beelzebub-uwu&show_icons=true&locale=en&layout=compact" alt="beelzebub-uwu" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beelzebub-uwu&show_icons=true&locale=en" alt="beelzebub-uwu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beelzebub-uwu&" alt="beelzebub-uwu" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beelzebub-uwu&show_icons=true&locale=en&layout=compact" alt="beelzebub-uwu" /></p>
 
