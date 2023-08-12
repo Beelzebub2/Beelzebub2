@@ -1,7 +1,9 @@
 ![MasterHead](https://i.imgur.com/c6YvgZJ.jpeg)
 <h1 align="center">Hi 👋, I'm Ricardo Martins</h1>
 <h3 align="center">Student learning Python, C/C++, and Android Java development</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif">
+<p align="right">
+  <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" alt="Anime" width="400">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beelzebub-uwu&label=Profile%20views&color=0e75b6&style=flat" alt="beelzebub-uwu" /> </p>
 
