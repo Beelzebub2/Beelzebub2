@@ -3,9 +3,9 @@
 <h3 align="center">Student learning Python, C/C++, and Android Java development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ac/84/36/ac843682a7392c63897909cbc9dd0981.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beelzebub-uwu&label=Profile%20views&color=0e75b6&style=flat" alt="beelzebub-uwu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beelzebub2&label=Profile%20views&color=0e75b6&style=flat" alt="beelzebub2" /> </p>
 
-- 🔭 I’m currently working on [TwitchDiscordNotifications](https://github.com/Beelzebub-uwu/TwitchDiscordNotifications)
+- 🔭 I’m currently working on [TwitchDiscordNotifications](https://github.com/Beelzebub2/TwitchDiscordNotifications)
 
 - 🌱 I’m currently learning **Javascript, Python, HTML, Flask.**
 
@@ -25,9 +25,9 @@
 
 <p></p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beelzebub-uwu&show_icons=true&locale=en" alt="beelzebub-uwu" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&show_icons=true&locale=en" alt="Beelzebub2" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beelzebub-uwu&" alt="beelzebub-uwu" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Beelzebub2&" alt="Beelzebub2" /></p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beelzebub-uwu&show_icons=true&locale=en&layout=compact" alt="beelzebub-uwu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beelzebub2&show_icons=true&locale=en&layout=compact" alt="Beelzebub2" /></p>
 
