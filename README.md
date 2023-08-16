@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/beelzebub_uwu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/account/login" /></a></p><br><br>
 
-<p></p>  
+<h3 align="left">Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&show_icons=true&locale=en" alt="Beelzebub2" /></p>  
 
