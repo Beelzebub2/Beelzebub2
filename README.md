@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beelzebub2&label=Profile%20views&color=0e75b6&style=flat" alt="beelzebub2" /> </p>
 
-- 🔭 I’m currently working on [TwitchDiscordNotifications](https://github.com/Beelzebub2/TwitchDiscordNotifications)
+- 🔭 I’m currently working on [TwitchDiscordNotifications](https://github.com/Beelzebub2/TwitchDiscordNotifications), [Beelproxy](https://github.com/Beelzebub2/BeelProxy)
 
 - 🌱 I’m currently learning **Javascript, Python, HTML, Flask.**
 
