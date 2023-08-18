@@ -82,7 +82,6 @@
       height="250"
       src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=react&hide_border=true&border_radius=15" />
 </p>
-
 <p align="center">
     <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/bottom.svg" alt="Github Stats" />
 </p>
