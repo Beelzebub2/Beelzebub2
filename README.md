@@ -23,11 +23,20 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/beelzebub_uwu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/account/login" /></a></p><br><br>
 
-<h3 align="left">Stats:</h3>
+### 📊 Stats:
+<p align="justify">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
+    />
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&show_icons=true&locale=en" alt="Beelzebub2" /></p>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Beelzebub2&" alt="Beelzebub2" /></p>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beelzebub2&show_icons=true&locale=en&layout=compact" alt="Beelzebub2" /></p>
+<p align="justify">
+    <img
+      height="250"
+      src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=neon-palenight&hide_border=true" />
+</p>
 
