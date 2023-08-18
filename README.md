@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/c6YvgZJ.jpeg)
+<img src="https://i.imgur.com/c6YvgZJ.jpeg" alt="MasterHead" />
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Ricardo Martins</h1>
 <h3 align="center">Student learning Python, C/C++, and Android Java development</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Beelzebub2/Beelzebub2/blob/main/github_readme.gif">
