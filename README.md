@@ -52,6 +52,6 @@
 </p>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/Beelzebub2/Beelzebub2/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/bottom.svg" alt="Github Stats" />
 </p>
 
