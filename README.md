@@ -21,10 +21,8 @@
   <a align="right" href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-</div>
-
 <br/><br/>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,8 +38,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
-</p>
-<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -65,25 +61,32 @@
 <p><a href="https://ko-fi.com/beelzebub_uwu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/account/login" /></a></p><br><br>
 
 <br/><br/>
-
-### 📊 Stats:
-<p align="justify">
+<h2 align="center">📊 Stats 📊</h2>
+<br>
+<div width="100%" align="center">
+<a align="left">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=react&border_color=61dafb&border_radius=10"
     />
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=tokyonight" />
-</p>
+</a>
 
-<p align="justify">
+<a align="right">
+  <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+
+<p align="center">
     <img
       height="250"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=neon-palenight&hide_border=true" />
+      src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=react&border_color=61dafb&border_radius=10&hide_border=tr" />
 </p>
 
 <p align="center">
-        <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/bottom.svg" alt="Github Stats" />
+    <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/bottom.svg" alt="Github Stats" />
 </p>
+</br>
+</div>
+
 
