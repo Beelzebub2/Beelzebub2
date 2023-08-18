@@ -80,7 +80,7 @@
 <p align="center">
     <img
       height="250"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=react&border_color=61dafb&border_radius=10&hide_border=tr" />
+      src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=react&border_color=61dafb&border_radius=10&hide_border=true" />
 </p>
 
 <p align="center">
