@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@beelzebub2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@beelzebub2" height="30" width="40" /></a>
 </p>
-
+<br/><br/>
 <h2 align="center">⚙️ Projects ⚙️</h2>
 <br>
 <div width="100%" align="center">
@@ -24,8 +24,7 @@
 
 </div>
 
-
-
+<br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,10 +59,12 @@
   </a>
 </p>
 
-
+<br/><br/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/beelzebub_uwu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/account/login" /></a></p><br><br>
+
+<br/><br/>
 
 ### 📊 Stats:
 <p align="justify">
