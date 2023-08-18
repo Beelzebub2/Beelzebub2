@@ -17,10 +17,10 @@
 ### ⚙️ Projects:
 <div style="display: flex; gap: 20px;">
   <a href="https://github.com/Beelzebub2/BeelProxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&show_owner=true&theme=dark" alt="Proxy Scraper Repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&show_owner=true&theme=react&border_color=61dafb&border_radius=10" alt="Proxy Scraper Repository">
   </a>
   <a href="https://github.com/Beelzebub2/TwitchDiscordNotifications">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&show_owner=true&theme=dark" alt="Twitch Discord Notifications Repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&show_owner=true&theme=react&border_color=61dafb&border_radius=10" alt="Twitch Discord Notifications Repository">
   </a>
 </div>
 
