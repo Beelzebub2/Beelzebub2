@@ -51,3 +51,7 @@
       src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=neon-palenight&hide_border=true" />
 </p>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/Beelzebub2/Beelzebub2/Bottom.svg" alt="Github Stats" />
+</p>
+
