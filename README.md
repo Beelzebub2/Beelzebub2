@@ -5,7 +5,7 @@
 
 <div style="text-align:center;">
     <h1>Profile Views</h1>
-    <img src="https://counter.seku.su/cmoe?name=Beelzebub2" alt="Beelzebub2" />
+    <img src="https://counter.seku.su/cmoe?name=Beelzebub2&theme=rule34" alt="Beelzebub2" />
 </div>
 <p></p>
 - 🌱 I’m currently learning **Javascript, Python, HTML, Flask.**
