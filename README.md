@@ -3,8 +3,11 @@
 <h3 align="center">Student learning Python, C/C++, and Android Java development</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Beelzebub2/Beelzebub2/blob/main/github_readme.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beelzebub2&label=Profile%20views&color=0e75b6&style=flat" alt="beelzebub2" /> </p>
-
+<div style="text-align:center;">
+    <h1>Profile Views</h1>
+    <img src="https://counter.seku.su/cmoe?name=Beelzebub2" alt="Beelzebub2" />
+</div>
+<p></p>
 - 🌱 I’m currently learning **Javascript, Python, HTML, Flask.**
 
 <h3 align="left">Connect with me:</h3>
