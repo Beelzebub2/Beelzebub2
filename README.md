@@ -18,8 +18,8 @@
 <h2 align="center">⚙️ Projects ⚙️</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Beelzebub2/BeelProxy" title="Proxy Scraper Repository"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Beelzebub2/BeelProxy" title="Proxy Scraper Repository"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository"><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <br/><br/>
@@ -68,14 +68,14 @@
 <a align="left">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Beelzebub2&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=react&border_color=61dafb&border_radius=10"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beelzebub2&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=react&border_color=61dafb&border_radius=10"
     />
 </a>
 
 <a align="right">
   <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
 </a>
 
 <p align="center">
