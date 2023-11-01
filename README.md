@@ -22,9 +22,10 @@
   <a align="right" href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository"><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10"></a>
     <br/><br/>
     <p></p>
-    <a align="left" href="https://github.com/Beelzebub2/Optica-project" title="Optipy Repository"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Beelzebub2/Optica-project" title="Optipy Repository"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=Optica-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+<br/><br/>
 <br/><br/>
 </div>
 
