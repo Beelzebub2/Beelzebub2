@@ -25,20 +25,32 @@
 
 <h2 align="center">⚙️ Projects ⚙️</h2>
 <br>
-<div align="center">
-  <a href="https://github.com/Beelzebub2/BeelProxy" title="Proxy Scraper Repository">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Beelzebub2/Optica-project" title="Optica Project">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=Optica-project&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Beelzebub2/AutoBanana" title="AutoBanana">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=AutoBanana&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Beelzebub2/BeelProxy" title="Proxy Scraper Repository">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Beelzebub2/Optica-project" title="Optica Project">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=Optica-project&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Beelzebub2/AutoBanana" title="AutoBanana">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=AutoBanana&theme=react&border_color=61dafb&border_radius=10">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
