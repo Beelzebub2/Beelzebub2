@@ -3,12 +3,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Beelzebub2</h1>
 <h3 align="center">Student learning Python, C/C++, and Android Java development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Beelzebub2/Beelzebub2/blob/main/github_readme.gif">
-
-<div align="center">
-    <h2>Profile Views</h2>
-    <img src="https://counter.seku.su/cmoe?name=Beelzebub2&theme=rule34" alt="Beelzebub2" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://counter.seku.su/cmoe?name=Beelzebub2&theme=rule34" alt="Beelzebub2" />
+    </td>
+    <td align="center">
+      <img alt="Coding" width="400" src="https://github.com/Beelzebub2/Beelzebub2/blob/main/github_readme.gif">
+    </td>
+  </tr>
+</table>
 
 <p align="left">- 🌱 I’m currently learning <b>Javascript, Python, HTML, Flask.</b></p>
 
@@ -73,7 +77,7 @@
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
-<br><br>
+<br><br><br>
 
 <h2 align="center">📊 Stats 📊</h2>
 <div align="center">
