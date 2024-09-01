@@ -14,8 +14,6 @@
   </tr>
 </table>
 
-<p align="left">- 🌱 I’m currently learning <b>Javascript, Python, HTML, Flask.</b></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@beelzebub2" target="blank">
