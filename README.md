@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Beelzebub2/Optica-project" title="Optica Project">
+      <a href="https://github.com/Beelzebub2/DnDTools" title="DnDTools">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=Optica-project&theme=react&border_color=61dafb&border_radius=10">
       </a>
     </td>
