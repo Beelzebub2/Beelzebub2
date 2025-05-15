@@ -1,16 +1,4 @@
 
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://counter.seku.su/cmoe?name=Beelzebub2&theme=rule34" alt="Beelzebub2" />
-    </td>
-    <td align="center">
-      <img alt="Coding" width="400" src="https://github.com/Beelzebub2/Beelzebub2/blob/main/github_readme.gif">
-    </td>
-  </tr>
-</table>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@beelzebub2" target="blank">
