@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/top.svg" alt="Header Graphic" />
+</p>
+
+<p align="center">
   <!-- GitHub follow badge -->
   <a href="https://github.com/Beelzebub2">
     <img
@@ -21,7 +25,6 @@
     />
   </a>
 </p>
----
 
 ## ⚙️ Projects
 
