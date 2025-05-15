@@ -1,6 +1,4 @@
-<img src="https://i.imgur.com/c6YvgZJ.jpeg" alt="MasterHead" />
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Beelzebub2</h1>
 
 <table align="center">
   <tr>
