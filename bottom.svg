@@ -1,53 +1,75 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<style>
-  svg {
-    width: 110vw;
-    position: fixed;
-    top: -5px;
-    transform: rotate(360deg);
-    overflow: visible;
-  }
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 240 40"
+  style="width:80vw; height:auto; position:fixed; top:0; left:0; overflow:visible;"
+>
+  <defs>
+    <path
+      id="wave"
+      d="M0,10
+         C30,10 30,15 60,15
+          90,15 90,10 120,10
+         150,10 150,15 180,15
+         210,15 210,10 240,10
+         v28 h-240z"
+    />
+    <filter id="anim">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
+      <feColorMatrix
+        in="blur"
+        mode="matrix"
+        values="
+          1 0 0 0 0
+          0 1 0 0 0
+          0 0 1 0 0
+          0 0 0 13 -9"
+        result="cm"
+      />
+      <feBlend in="SourceGraphic" in2="cm"/>
+    </filter>
+  </defs>
 
-  .wave {
-    animation: wave 10s linear infinite; /* Adjust the duration for smoother animation */
-    fill: #17CEEE;
-  }
+  <!-- front copies -->
+  <use id="wave1"  class="wave" xlink:href="#wave" x="0"   y="-4" filter="url(#anim)"/>
+  <use id="wave1b" class="wave" xlink:href="#wave" x="240" y="-4" filter="url(#anim)"/>
 
-  .wave:hover {
-    fill: #fff;
-  }
+  <!-- mid copies -->
+  <use id="wave2"  class="wave" xlink:href="#wave" x="0"   y="-6"/>
+  <use id="wave2b" class="wave" xlink:href="#wave" x="240" y="-6"/>
 
-  #wave2 {
-    animation-duration: 10s; /* Adjust the duration for smoother animation */
-    animation-direction: reverse;
-    opacity: 0.9;
-  }
+  <!-- back copies -->
+  <use id="wave3"  class="wave" xlink:href="#wave" x="0"   y="-8"/>
+  <use id="wave3b" class="wave" xlink:href="#wave" x="240" y="-8"/>
 
-  #wave3 {
-    animation-duration: 10s; /* Adjust the duration for smoother animation */
-    opacity: 0.6;
-  }
-
-  @keyframes wave {
-    to {
-      transform: translateX(-100%);
+  <style>
+    .wave {
+      will-change: transform;
+      animation: wave 20s linear infinite;
     }
-  }
-</style>
+    .wave:hover { fill: #ffdee5; }
 
-<defs>
-  <filter id="anim">
-    <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
-    <feColorMatrix in="blur" mode="matrix" values="
-      1 0 0 0 0  
-      0 1 0 0 0  
-      0 0 1 0 0  
-      0 0 0 13 -9" result="anim" />
-    <xfeBlend in="SourceGraphic" in2="anim" />
-  </filter>
-  <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
-</defs>
+    /* front wave – bright pink-red */
+    #wave1, #wave1b {
+      fill: #ff1a5e;
+      animation-duration: 20s;
+    }
+    /* mid wave – deeper crimson */
+    #wave2, #wave2b {
+      fill: #cc0044;
+      animation-duration: 25s;
+      opacity: 0.9;
+    }
+    /* back wave – rich burgundy */
+    #wave3, #wave3b {
+      fill: #990022;
+      animation-duration: 30s;
+      opacity: 0.6;
+    }
 
-<use id="wave2" class="wave" xlink:href="#wave" x="0" y="-4" />
-<use id="wave3" class="wave" xlink:href="#wave" x="0" y="-6" />
+    @keyframes wave {
+      from { transform: translate3d(0,0,0); }
+      to   { transform: translate3d(-240px,0,0); }
+    }
+  </style>
 </svg>
