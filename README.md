@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/top.svg" alt="Github Stats" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@beelzebub2" target="blank">
