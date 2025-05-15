@@ -1,20 +1,26 @@
 <p align="center">
-  <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/top.svg" alt="Header Graphic" />
-</p>
-
-<h1 align="center">👋 Hi, I’m Beelzebub</h1>
-<p align="center">
+  <!-- GitHub follow badge -->
   <a href="https://github.com/Beelzebub2">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Beelzebub2?label=Follow&style=social" />
+    <img
+      src="https://img.shields.io/github/followers/Beelzebub2?label=Follow&style=flat-square&logo=github"
+      alt="Follow on GitHub"
+    />
   </a>
+  <!-- YouTube subscribers badge (replace UCRAZ... with your actual channel ID) -->
   <a href="https://www.youtube.com/@beelzebub2">
-    <img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCrAz_dVQ1gE2LO3LUHjJfFw?label=YouTube&style=social" />
+    <img
+      src="https://img.shields.io/youtube/channel/subscribers/UC-4csj4w3jjSfJDBlOfkfkg?label=YouTube&style=flat-square&logo=youtube"
+      alt="YouTube Subscribers"
+    />
   </a>
+  <!-- Ko-fi badge -->
   <a href="https://ko-fi.com/beelzebub_uwu">
-    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/❤️-Ko--fi-FF5E5B?style=flat&logo=ko-fi" />
+    <img
+      src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=ko-fi"
+      alt="Buy me a coffee"
+    />
   </a>
 </p>
-
 ---
 
 ## ⚙️ Projects
