@@ -1,91 +1,70 @@
 <p align="center">
-    <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/top.svg" alt="Github Stats" />
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@beelzebub2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@beelzebub2" height="30" width="40" />
-</a>
+  <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/top.svg" alt="Header Graphic" />
 </p>
 
-<h2 align="center">⚙️ Projects ⚙️</h2>
-<br>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Beelzebub2/BeelProxy" title="Proxy Scraper Repository">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch Discord Notifications Repository">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Beelzebub2/DnDTools" title="DnDTools">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=DnDTools&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Beelzebub2/AutoBanana" title="AutoBanana">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=AutoBanana&theme=react&border_color=61dafb&border_radius=10">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
+<h1 align="center">👋 Hi, I’m Beelzebub</h1>
+<p align="center">
+  <a href="https://github.com/Beelzebub2">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Beelzebub2?label=Follow&style=social" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <a href="https://www.youtube.com/@beelzebub2">
+    <img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCrAz_dVQ1gE2LO3LUHjJfFw?label=YouTube&style=social" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p>
   <a href="https://ko-fi.com/beelzebub_uwu">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/❤️-Ko--fi-FF5E5B?style=flat&logo=ko-fi" />
   </a>
 </p>
-<br><br><br>
 
-<h2 align="center">📊 Stats 📊</h2>
+---
+
+## ⚙️ Projects
+
 <div align="center">
-    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beelzebub2&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=react&border_color=61dafb&border_radius=10"/>
-    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=react&border_color=61dafb&border_radius=10"/>
-    <img height="250" src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=react&hide_border=true&border_radius=15"/>
+  <a href="https://github.com/Beelzebub2/BeelProxy" title="Proxy Scraper">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=BeelProxy&theme=react&border_radius=10" alt="BeelProxy" />
+  </a>
+  <a href="https://github.com/Beelzebub2/TwitchDiscordNotifications" title="Twitch→Discord Notifier">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=TwitchDiscordNotifications&theme=react&border_radius=10" alt="TwitchDiscordNotifications" />
+  </a>
+  <a href="https://github.com/Beelzebub2/DnDTools" title="DnD Tools">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=DnDTools&theme=react&border_radius=10" alt="DnDTools" />
+  </a>
+  <a href="https://github.com/Beelzebub2/AutoBanana" title="AutoBanana">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Beelzebub2&repo=AutoBanana&theme=react&border_radius=10" alt="AutoBanana" />
+  </a>
 </div>
 
-<!--START_SECTION:waka-->
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img alt="Android"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"            width="40" height="40"/>
+  <img alt="Arduino"          src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"                                     width="40" height="40"/>
+  <img alt="C++"              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"    width="40" height="40"/>
+  <img alt="Flask"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"            width="40" height="40"/>
+  <img alt="HTML5"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"            width="40" height="40"/>
+  <img alt="JavaScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"    width="40" height="40"/>
+  <img alt="Node.js"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"          width="40" height="40"/>
+  <img alt="OpenCV"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"            width="40" height="40"/>
+  <img alt="Python"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"          width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beelzebub2&show_icons=true&count_private=true&theme=react&border_radius=10"  alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beelzebub2&layout=compact&theme=react&border_radius=10" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Beelzebub2&theme=react&border_radius=10" alt="Streak Stats" height="150"/>
+</div>
+
+---
+
+<!-- START_SECTION:waka -->
 <!--END_SECTION:waka-->
 
 <p align="center">
-    <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/bottom.svg" alt="Github Stats" />
+  <img src="https://github.com/Beelzebub2/Beelzebub2/blob/main/bottom.svg" alt="Footer Graphic" style="transform: scaleY(-1);" />
 </p>
