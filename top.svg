@@ -1,0 +1,72 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 240 40"
+  style="width:80vw; height:auto; position:fixed; top:0; left:0; overflow:visible;"
+>
+  <defs>
+    <path
+      id="wave"
+      d="M0,10
+         C30,10 30,15 60,15
+          90,15 90,10 120,10
+         150,10 150,15 180,15
+         210,15 210,10 240,10
+         v28 h-240z"
+    />
+    <filter id="anim">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
+      <feColorMatrix
+        in="blur"
+        mode="matrix"
+        values="
+          1 0 0 0 0
+          0 1 0 0 0
+          0 0 1 0 0
+          0 0 0 13 -9"
+        result="cm"
+      />
+      <feBlend in="SourceGraphic" in2="cm"/>
+    </filter>
+  </defs>
+
+  <!-- wrap all uses in a flipped group -->
+  <g transform="translate(0,40) scale(1,-1)">
+    <use id="wave1"  class="wave" xlink:href="#wave" x="0"   y="-4" filter="url(#anim)"/>
+    <use id="wave1b" class="wave" xlink:href="#wave" x="240" y="-4" filter="url(#anim)"/>
+
+    <use id="wave2"  class="wave" xlink:href="#wave" x="0"   y="-6"/>
+    <use id="wave2b" class="wave" xlink:href="#wave" x="240" y="-6"/>
+
+    <use id="wave3"  class="wave" xlink:href="#wave" x="0"   y="-8"/>
+    <use id="wave3b" class="wave" xlink:href="#wave" x="240" y="-8"/>
+  </g>
+
+  <style>
+    .wave {
+      will-change: transform;
+      animation: wave 20s linear infinite;
+    }
+    .wave:hover { fill: #ffdee5; }
+
+    #wave1, #wave1b {
+      fill: #ff1a5e;
+      animation-duration: 20s;
+    }
+    #wave2, #wave2b {
+      fill: #cc0044;
+      animation-duration: 25s;
+      opacity: 0.9;
+    }
+    #wave3, #wave3b {
+      fill: #990022;
+      animation-duration: 30s;
+      opacity: 0.6;
+    }
+
+    @keyframes wave {
+      from { transform: translate3d(0,0,0); }
+      to   { transform: translate3d(-240px,0,0); }
+    }
+  </style>
+</svg>
