@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="176" viewBox="0 0 900 176" role="img" aria-label="Cyberpunk closing panel: open source, user control, reduced vendor lock-in">
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2e88"/></linearGradient>
+    <linearGradient id="hp" x1="0" x2="1"><stop stop-color="#ff2e88"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <filter id="cyanGlow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="pinkGlow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="176" rx="16" fill="#05070c"/>
+  <rect x="1.5" y="1.5" width="897" height="173" rx="14.5" fill="#080d15" stroke="url(#edge)" stroke-width="3"/>
+
+  <path d="M22 31h120l14 14h94" fill="none" stroke="#00f5ff" stroke-opacity="0.7" stroke-width="1.5"/>
+  <path d="M650 133h94l14 14h120" fill="none" stroke="#ff2e88" stroke-opacity="0.7" stroke-width="1.5"/>
+  <circle cx="22" cy="31" r="3" fill="#00f5ff" filter="url(#cyanGlow)"><animate attributeName="opacity" values=".25;1;.25" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="878" cy="147" r="3" fill="#ff2e88" filter="url(#pinkGlow)"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+
+  <text x="38" y="64" fill="#8894a8" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5">BOSS // VENDOR LOCK-IN</text>
+  <rect x="38" y="76" width="390" height="10" rx="5" fill="#1a2230"/>
+  <rect x="38" y="76" width="47" height="10" rx="5" fill="url(#hp)" filter="url(#pinkGlow)">
+    <animate attributeName="opacity" values="0.55;1;0.7;1" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="438" y="85" fill="#ff79ae" font-family="Consolas, Menlo, monospace" font-size="11">12%</text>
+
+  <text x="516" y="64" fill="#8894a8" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5">USER CONTROL</text>
+  <rect x="516" y="76" width="330" height="10" rx="5" fill="#1a2230"/>
+  <rect x="516" y="76" width="330" height="10" rx="5" fill="#00f5ff" opacity="0.85" filter="url(#cyanGlow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="855" y="85" fill="#7cf8ff" font-family="Consolas, Menlo, monospace" font-size="11">100%</text>
+
+  <text x="450" y="119" text-anchor="middle" fill="#e9eef8" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1.2">OPEN SOURCE // NO LOCK-IN // BUILD WHAT YOU ACTUALLY WANT</text>
+  <text x="450" y="145" text-anchor="middle" fill="#697487" font-family="Consolas, Menlo, monospace" font-size="10" letter-spacing="1.5">CHECKPOINT SAVED · KEEP IT OPEN · KEEP IT YOURS</text>
+
+  <rect x="270" y="158" width="360" height="2" rx="1" fill="#1a2230"/>
+  <rect x="270" y="158" width="54" height="2" rx="1" fill="#00f5ff" filter="url(#cyanGlow)">
+    <animate attributeName="x" values="270;576;270" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
