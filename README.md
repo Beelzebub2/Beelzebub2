@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Beelzebub2?tab=followers"><img src="https://img.shields.io/github/followers/Beelzebub2?style=for-the-badge&logo=github&label=Followers&color=ff1a5e" alt="GitHub followers" /></a>
-  <a href="https://github.com/Beelzebub2?tab=repositories"><img src="https://img.shields.io/github/stars/Beelzebub2?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=cc0044" alt="GitHub stars" /></a>
+  <a href="https://github.com/Beelzebub2?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Projects-cc0044?style=for-the-badge&logo=github&logoColor=white" alt="Open source projects" /></a>
   <a href="https://www.youtube.com/@beelzebub2"><img src="https://img.shields.io/youtube/channel/subscribers/UC-4csj4w3jjSfJDBlOfkfkg?style=for-the-badge&logo=youtube&label=YouTube&color=990022" alt="YouTube subscribers" /></a>
   <a href="https://ko-fi.com/beelzebub_uwu"><img src="https://img.shields.io/badge/Ko--fi-Support-ff1a5e?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
@@ -62,7 +62,7 @@ I like turning repetitive, awkward, or overly manual workflows into software tha
 ## 🛠️ Tech I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,electron,powershell,cpp,qt,git,github,linux,arduino,cloudflare&perline=7" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,electron,powershell,cpp,qt,git,github,linux,arduino,cloudflare&perline=7" alt="Technology stack" />
 </p>
 
 ## 📊 GitHub activity
