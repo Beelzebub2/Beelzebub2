@@ -16,7 +16,7 @@
 
 ## About
 
-I build desktop applications, automation tools, and open-source utilities. Most of my work focuses on Windows/Linux compatibility, practical tooling, and game-related utilities.
+I build desktop applications, automation tools, and open-source utilities.
 
 ## Featured projects
 
