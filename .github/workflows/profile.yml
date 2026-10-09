@@ -1,0 +1,31 @@
+name: Build profile
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - profile.config.json
+      - scripts/build_profile.py
+      - .github/workflows/profile.yml
+  schedule:
+    - cron: "17 5 * * *" # daily, keeps stars / followers / latest repo current
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build README and panels
+        run: python3 scripts/build_profile.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/profile
+          git diff --cached --quiet || (git commit -m "chore: rebuild profile" && git push)

@@ -1,0 +1,26 @@
+{
+  "user": "Beelzebub2",
+
+  "featured": [
+    "https://github.com/Beelzebub2/vencord-autopatch",
+    "https://github.com/Beelzebub2/StellarisModManager",
+    "https://github.com/Beelzebub2/DnDTools",
+    "https://github.com/Beelzebub2/RunEXE"
+  ],
+
+  "wordmark": "BEELZEBUB",
+  "kana": "ベルゼブブ",
+  "tagline": "desktop apps // automation // open source",
+  "about": "I build desktop applications, automation tools, and open-source utilities.",
+  "caption": "BUILDING USEFUL THINGS OUTSIDE THE WALLED GARDEN",
+  "strapline": "OPEN SYSTEMS // USER CONTROL",
+  "kofi": "https://ko-fi.com/beelzebub_uwu",
+
+  "stack": ["Python", "TypeScript", "Rust", "C++", "PowerShell", "Qt", "Electron", "Tauri", "React", "Linux"],
+
+  "meters": [["BOSS // VENDOR LOCK-IN", 12], ["USER CONTROL", 100]],
+  "signoff": ["OPEN SOURCE. NO LOCK-IN.", "BUILD WHAT YOU ACTUALLY WANT."],
+  "footnote": "CHECKPOINT SAVED · KEEP IT OPEN · KEEP IT YOURS",
+
+  "colors": { "accent": "#FF2E5B", "signal": "#FFB000" }
+}
