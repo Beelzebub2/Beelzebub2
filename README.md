@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Beelzebub2/fetchrail"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: fetchrail - Windows download manager with parallel transfers, reliable resume, and a browser companion. Built with Rust, Tauri, and React."></a>
+  <a href="https://github.com/Beelzebub2/fetchrail"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: fetchrail - Download manager for Windows and Linux with parallel transfers, reliable resume, torrents, and a browser companion. Built with Rust, Tauri, and React."></a>
 </p>
 
 <p align="center">
