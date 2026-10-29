@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Beelzebub2/DnDTools"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: DnDTools - Unified Stash &amp; Quest Manager: Cross-character item search and real-time objective tracking."></a>
+  <a href="https://github.com/Beelzebub2/fetchrail"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: fetchrail - Download manager for Windows and Linux with parallel transfers, reliable resume, torrents, and a browser companion. Built with Rust, Tauri, and React."></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
   <a href="https://github.com/Beelzebub2/AutoBanana"><img src="assets/profile/archive-1.svg" width="100%" alt="AutoBanana - AutoBanana automates opening and closing of games. Features include running on startup, timed sessions. Easily configure settings in config.ini and track actions with detailed logging. Perfect for automating your gaming routine!"></a>
   <a href="https://github.com/Beelzebub2/BeelProxy"><img src="assets/profile/archive-2.svg" width="100%" alt="BeelProxy - Multi-threaded python proxy checker. Capable of checking HTTP/HTTPS SOCKS4/SOCKS5"></a>
   <a href="https://github.com/Beelzebub2/TwitchDiscordNotifications"><img src="assets/profile/archive-3.svg" width="100%" alt="TwitchDiscordNotifications - Get notifications of your favorite streamers on your discord Dm&#x27;s as soon as they start streaming"></a>
-  <a href="https://github.com/Beelzebub2?tab=repositories"><img src="assets/profile/archive-all.svg" width="100%" alt="View All 14 Repositories"></a>
+  <a href="https://github.com/Beelzebub2?tab=repositories"><img src="assets/profile/archive-all.svg" width="100%" alt="View All 15 Repositories"></a>
 </p>
 
 <p align="center">
