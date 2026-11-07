@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Beelzebub2/nuvio-native"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: nuvio-native - Private native Nuvio Desktop fork with automated Windows releases"></a>
+  <a href="https://github.com/Beelzebub2/starlit-website"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: starlit-website - Official bilingual Starlit website and public privacy notices"></a>
 </p>
 
 <p align="center">
