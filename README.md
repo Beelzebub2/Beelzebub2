@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Beelzebub2/DnDTools"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: DnDTools - Unified Stash &amp; Quest Manager: Cross-character item search and real-time objective tracking."></a>
+  <a href="https://github.com/Beelzebub2/starlit"><img src="assets/profile/now-building.svg" width="100%" alt="Now building: starlit - Starlit - cross-platform streaming and media app for Android, Windows, Linux, and TV"></a>
 </p>
 
 <p align="center">
